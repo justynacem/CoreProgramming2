@@ -1,0 +1,15 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Jane",
+      "surname": "Doe",
+      "age": "18",
+      "cash": "2000",
+      "products": [
+        1,
+        2
+      ]
+    }
+  ]
+}

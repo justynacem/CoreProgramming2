@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "category": "Electronics",
+      "price": 2400
+    },
+    {
+      "id": 2,
+      "name": "War and peace",
+      "category": "Books",
+      "price": 120
+    },
+    {
+      "id": 3,
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 800
+    },
+    {
+      "id": 5,
+      "name": "Harry Potter",
+      "category": "Books",
+      "price": 120
+    },
+    {
+      "id": 6,
+      "name": "Ball",
+      "category": "Sport",
+      "price": 60
+    },
+    {
+      "id": 7,
+      "name": "Swimming suit",
+      "category": "Sport",
+      "price": 150
+    }
+  ]
+}
