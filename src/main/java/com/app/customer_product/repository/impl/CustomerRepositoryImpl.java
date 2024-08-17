@@ -25,7 +25,7 @@ public class CustomerRepositoryImpl implements CustomerRepository {
     public Customer getById(Long id) {
         return customers
                 .stream()
-                .filter(el -> el.getId() == id)
+                .filter(el -> el.id() == id)
                 .findFirst()
                 .orElseThrow(() ->
                         new NoSuchElementException(String.format("Customer with id %d not found", id)));
